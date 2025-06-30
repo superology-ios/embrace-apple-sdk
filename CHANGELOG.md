@@ -1,3 +1,8 @@
+## 6.12.2
+*June 30, 2025*
+* Fixes
+    * Compatibility issues with LaunchDarkly data compression lib.
+
 ## 6.12.1
 *June 27, 2025*
 * Fixes
